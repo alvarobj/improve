@@ -20,4 +20,4 @@ Once the email copy of the license agreement has been received at ATVS, you will
 
 For more information, please contact: atvs@uam.es
 
- [Download license agreement]([https://github.com/BiDAlab/mEBAL2](https://github.com/alvarobj/improve/blob/master/License/IMPROVE_License_Agreement.pdf)
+ [Download license agreement](https://github.com/alvarobj/improve/blob/master/License/IMPROVE_License_Agreement.pdf)
