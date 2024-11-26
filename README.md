@@ -25,7 +25,9 @@ For more information, please contact: atvs@uam.es
  [Download license agreement](https://github.com/alvarobj/improve/blob/main/License/IMPROVE_License_Agreement.pdf)
 
  # References
- - [1] IMPROVE
+[1] IMPROVE
+
+  # Related works
  - Becerra, A., Daza, R., Cobos, R., Morales, A., Cukurova, M., & Fierrez, J.  
   **M2LADS: A System for Generating Multimodal Learning Analytics Dashboards.**  
   *In Proc. IEEE 47th Annu. Comput., Softw., Appl. Conf. (COMPSAC)*, pp. 1564–1569, 2023.
