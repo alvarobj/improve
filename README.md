@@ -21,3 +21,21 @@ Once the email copy of the license agreement has been received at ATVS, you will
 For more information, please contact: atvs@uam.es
 
  [Download license agreement](https://github.com/alvarobj/improve/blob/master/License/IMPROVE_License_Agreement.pdf)
+
+ # References
+ - Becerra, A., Daza, R., Cobos, R., Morales, A., Cukurova, M., & Fierrez, J.  
+  **M2LADS: A System for Generating Multimodal Learning Analytics Dashboards.**  
+  *In Proc. IEEE 47th Annu. Comput., Softw., Appl. Conf. (COMPSAC)*, pp. 1564–1569, 2023.
+
+- Daza, R., Morales, A., Fierrez, J., Tolosana, R., & Vera-Rodriguez, R.  
+  **mEBAL2 Database and Benchmark: Multispectral Eyeblink Detection.**  
+  *Pattern Recognition Letters*, **182**, pp. 83–89, 2024.
+
+- Becerra, A., Irigoyen, J., Daza, R., Cobos, R., Morales, A., Fierrez, J., & Cukurova, M.  
+  **Biometrics and Behavior Analysis for Detecting Distractions in E-Learning.**  
+  *In Proceedings of the International Symposium on Computers in Education (SIIE)*, pp. 1–6, 2024.
+
+- Daza, R., Gomez, L. F., Fierrez, J., Morales, A., Tolosana, R., & Ortega-Garcia, J.  
+  **DeepFace-Attention: Multimodal Face Biometrics for Attention Estimation with Application to E-Learning.**  
+  *IEEE Access*, **12**, pp. 111343–111359, 2024.
+
