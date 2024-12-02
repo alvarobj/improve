@@ -29,9 +29,9 @@ The IMPROVE database use a wide range of sensors, as shown in the acquisition se
 
 # Experiment Groups
 Three different groups were formed:
-    - Group 1: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
-    - Group 2: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
-    - Group 3: The mobile phone was confiscated during the whole learning session.
+- Group 1: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
+- Group 2: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
+- Group 3: The mobile phone was confiscated during the whole learning session.
     
 # Task
 The learners were monitored while participating in a learning session about HTML in a MOOC. Before the session, they completed a pretest to assess their prior knowledge of HTML. During the session, learners watched instructional videos, read documents on language syntax and coding, completed assignments to evaluate their learning, and reviewed their mistakes.
