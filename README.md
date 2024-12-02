@@ -15,7 +15,7 @@ The database stands out for its multidisciplinary approach, incorporating data f
 By making this resource available to the scientific community, we aim to foster innovative research on digital distractions, learner engagement, and adaptive educational systems. The insights derived from IMPROVE have the potential to better understand phone usage impact on learners [2], design interventions, and develop tools that mitigate the negative impact of mobile phone distractions in online learning environments, ultimately enhancing the quality and effectiveness of online education.
 
 # Sensors
-The IMPROVE database use a wide range of sensors, as shown in the acquisition setup during the data capture using the edBB platform [3]:
+The IMPROVE database use a wide range of sensors, as shown in the acquisition setup during the data capture using the edBB platform [3][4]:
 
 ![Sin titulo](https://github.com/alvarobj/improve/blob/main/Images/acquisition_setup.png)
 
@@ -25,7 +25,7 @@ The IMPROVE database use a wide range of sensors, as shown in the acquisition se
 - **Cameras**: 2 Logitech C170 cameras (side and overhead) operating at 20 Hz with a resolution of 640x480, and one front-facing RealSense camera were used. The RealSense camera contains one RGB camera and two NIR cameras, with dimensions of 90 mm length x 25 mm depth x 25 mm height. The NIR cameras are monochrome and sensitive in both the visible spectrum and NIR, following the sensitivity curve of the CMOS sensors. The three cameras were configured to operate at 30 Hz and 1280x720  resolution, and depth images are obtained by combining their three image channels.
 - **Keyboard and Mouse Activity**: Keystrokes, mouse position, time between keystrokes, mouse wheel movements, etc., are monitored.
 - **Screen Capture**: The monitor screen is captured at a frequency of 1 Hz.
-- **Logging data**: Information about the activities learners engaged in and their phone usage timing was also captured using the LOGGE tool [4].
+- **Logging data**: Information about the activities learners engaged in and their phone usage timing was also captured using the LOGGE tool [5].
 
 # Experiment Groups
 Three different groups were formed to understand the effects of mobile phone use or absence on learner behavior and academic performance:
@@ -60,8 +60,9 @@ For more information, please contact: atvs@uam.es
  # References
 + [1] IMPROVE
 + [2] Becerra, A., Irigoyen, J., Daza, R., Cobos, R., Morales, A., Fierrez, J., & Cukurova, M. **Biometrics and Behavior Analysis for Detecting Distractions in E-Learning.** *In Proceedings of the International Symposium on Computers in Education (SIIE)*, pp. 1–6, 2024. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10604582)]
-+ [2] Hernandez-Ortega, J.; Daza, R.; Morales, A.; Fierrez, J.; and Ortega Garcia, J. 2019. **edBB: Biometrics and Behavior for Assessing Remote Education.** In *AAAI Workshop on Artificial Intelligence for Education*. [[pdf](https://arxiv.org/pdf/1912.04786.pdf)]
-+ [3] Becerra, A., Daza, R., Cobos, R., Morales, A., Cukurova, M., & Fierrez, J. **M2LADS: A System for Generating Multimodal Learning Analytics Dashboards.** *In Proc. IEEE 47th Annu. Comput., Softw., Appl. Conf.(COMPSAC)*, pp. 1564–1569, 2023. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196854)]
++ [3] Hernandez-Ortega, J.; Daza, R.; Morales, A.; Fierrez, J.; and Ortega Garcia, J. 2019. **edBB: Biometrics and Behavior for Assessing Remote Education.** In *AAAI Workshop on Artificial Intelligence for Education*. [[pdf](https://arxiv.org/pdf/1912.04786.pdf)]
++ [4] Daza, R., Morales, A., Tolosana, R., Gomez, L. F., Fierrez, J., & Ortega-Garcia, J. **edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms.** In Proceedings of the *AAAI Conference on Artificial Intelligence*, Vol. 37, No. 13, pp. 16422–16424, June 2023. [[pdf](https://arxiv.org/pdf/2211.09210)]
++ [5] Becerra, A., Daza, R., Cobos, R., Morales, A., Cukurova, M., & Fierrez, J. **M2LADS: A System for Generating Multimodal Learning Analytics Dashboards.** *In Proc. IEEE 47th Annu. Comput., Softw., Appl. Conf.(COMPSAC)*, pp. 1564–1569, 2023. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196854)]
 
 # Related works
 - Daza, R., Morales, A., Fierrez, J., Tolosana, R., & Vera-Rodriguez, R. **mEBAL2 Database and Benchmark: Multispectral Eyeblink Detection.** *Pattern Recognition Letters*, **182**, pp. 83–89, 2024.
