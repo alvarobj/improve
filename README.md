@@ -44,10 +44,10 @@ The learners were monitored while participating in a learning session about HTML
 
 2) Send an email to atvs@uam.es, as follows:
 
-Subject: [DATABASE: IMPROVE]
+    Subject: [DATABASE: IMPROVE]
 
 
-Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
+    Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 
 
 3) Once the email copy of the license agreement has been received at ATVS, you will receive a link to download the database.
