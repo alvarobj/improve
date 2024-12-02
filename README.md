@@ -28,7 +28,7 @@ The IMPROVE database use a wide range of sensors, as shown in the acquisition se
 - **Logging data**: Information about the activities learners engaged in and their phone usage timing was also captured.
 
 # Experiment Groups
-Three different groups were formed:
+Three different groups were formed to understand the effects of mobile phone use or absence on learner behavior and academic performance:
 - **Group 1**: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
 - **Group 2**: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
 - **Group 3**: The mobile phone was confiscated during the whole learning session.
