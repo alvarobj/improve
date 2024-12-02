@@ -16,6 +16,7 @@ By making this resource available to the scientific community, we aim to foster 
 
 # Sensors
 The IMPROVE database use a wide range of sensors, as shown in the acquisition setup during the data capture:
+
 ![Sin titulo](https://github.com/alvarobj/improve/blob/main/Images/acquisition_setup.png)
 
 - EEG: A NeuroSky EEG headset, which measures the power spectrum density across 5 electroencephalographic channels ($\alpha, \beta, \gamma, \delta, \theta$). Through the preprocessing of these EEG channels, estimates of attention and meditation levels, as well as the occurrence of eye blinks, are obtained. 
@@ -25,6 +26,16 @@ The IMPROVE database use a wide range of sensors, as shown in the acquisition se
 - Keyboard and Mouse Activity: Keystrokes, mouse position, time between keystrokes, mouse wheel movements, etc., are monitored.
 - Screen Capture: The monitor screen is captured at a frequency of 1 Hz.
 - Logging data: Information about the activities learners engaged in and their phone usage timing was also captured.
+
+# Experiment Groups
+Three different groups were formed:
+    - Group 1: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
+    - Group 2: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
+    - Group 3: The mobile phone was confiscated during the whole learning session.
+    
+# Task
+The learners were monitored while participating in a learning session about HTML in a MOOC. Before the session, they completed a pretest to assess their prior knowledge of HTML. During the session, learners watched instructional videos, read documents on language syntax and coding, completed assignments to evaluate their learning, and reviewed their mistakes.
+
 # Code
 
 # Download Data
