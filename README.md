@@ -39,10 +39,10 @@ The learners were monitored while participating in a learning session about HTML
 # Code
 
 # Download Data
-Download license agreement, send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
+1) Download license agreement, send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
 
 
-Send an email to atvs@uam.es, as follows:
+2) Send an email to atvs@uam.es, as follows:
 
 Subject: [DATABASE: IMPROVE]
 
@@ -50,7 +50,7 @@ Subject: [DATABASE: IMPROVE]
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 
 
-Once the email copy of the license agreement has been received at ATVS, you will receive a link to download the database.
+3) Once the email copy of the license agreement has been received at ATVS, you will receive a link to download the database.
 
 
 For more information, please contact: atvs@uam.es
