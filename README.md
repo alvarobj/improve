@@ -37,6 +37,10 @@ Three different groups were formed to understand the effects of mobile phone use
 The learners were monitored while participating in a learning session about HTML in a MOOC. Before the session, they completed a pretest to assess their prior knowledge of HTML. During the session, learners watched instructional videos, read documents on language syntax and coding, completed assignments to evaluate their learning, and reviewed their mistakes.
 
 # Code
+Some data from the IMPROVE database were preprocessed and included in the database along with the raw files:
+
+- EEG and heart rate data were filtered to eliminate minor fluctuations and smooth the signals. Interpolation was used to fill gaps in missing values shorter than 5 seconds. [[Example of code for Heart Rate](https://github.com/alvarobj/improve/blob/main/Code/Example_Heart_Rate_Signal.m)]
+
 
 # Download Data
 1) Download license agreement, send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
