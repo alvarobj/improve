@@ -19,19 +19,19 @@ The IMPROVE database use a wide range of sensors, as shown in the acquisition se
 
 ![Sin titulo](https://github.com/alvarobj/improve/blob/main/Images/acquisition_setup.png)
 
-- EEG: A NeuroSky EEG headset, which measures the power spectrum density across 5 electroencephalographic channels ($\alpha, \beta, \gamma, \delta, \theta$). Through the preprocessing of these EEG channels, estimates of attention and meditation levels, as well as the occurrence of eye blinks, are obtained. 
-- Eye-tracker: A Tobii Pro Fusion\footnote{\url{https://go.tobii.com/tobii-pro-fusion-product-description}} equipped with two high-speed infrared cameras configured at 120 Hz for eye tracking. This device estimated the following data: gaze origin and point, pupil diameter, eye movement type (fixation, saccade, unclassified, eyes not found), event duration, data quality, eyeblink, and more; allowing us to measure visual attention.
-- Smartwatches: 2 different smartwatches, the Huawei Watch 2 and the FitBit Sense, were used to monitor heart rate, stress level (EDA sensor) and inertial sensors (gyroscope and accelerometer).
-- Cameras: 2 Logitech C170 cameras (side and overhead) operating at 20 Hz with a resolution of 640x480, and one front-facing RealSense camera were used. The RealSense camera contains one RGB camera and two NIR cameras, with dimensions of 90 mm length x 25 mm depth x 25 mm height. The NIR cameras are monochrome and sensitive in both the visible spectrum and NIR, following the sensitivity curve of the CMOS sensors. The three cameras were configured to operate at 30 Hz and 1280x720  resolution, and depth images are obtained by combining their three image channels.
-- Keyboard and Mouse Activity: Keystrokes, mouse position, time between keystrokes, mouse wheel movements, etc., are monitored.
-- Screen Capture: The monitor screen is captured at a frequency of 1 Hz.
-- Logging data: Information about the activities learners engaged in and their phone usage timing was also captured.
+- **EEG**: A NeuroSky EEG headset, which measures the power spectrum density across 5 electroencephalographic channels ($\alpha, \beta, \gamma, \delta, \theta$). Through the preprocessing of these EEG channels, estimates of attention and meditation levels, as well as the occurrence of eye blinks, are obtained. 
+- **Eye-tracker**: A Tobii Pro Fusion\footnote{\url{https://go.tobii.com/tobii-pro-fusion-product-description}} equipped with two high-speed infrared cameras configured at 120 Hz for eye tracking. This device estimated the following data: gaze origin and point, pupil diameter, eye movement type (fixation, saccade, unclassified, eyes not found), event duration, data quality, eyeblink, and more; allowing us to measure visual attention.
+- **Smartwatches**: 2 different smartwatches, the Huawei Watch 2 and the FitBit Sense, were used to monitor heart rate, stress level (EDA sensor) and inertial sensors (gyroscope and accelerometer).
+- **Cameras**: 2 Logitech C170 cameras (side and overhead) operating at 20 Hz with a resolution of 640x480, and one front-facing RealSense camera were used. The RealSense camera contains one RGB camera and two NIR cameras, with dimensions of 90 mm length x 25 mm depth x 25 mm height. The NIR cameras are monochrome and sensitive in both the visible spectrum and NIR, following the sensitivity curve of the CMOS sensors. The three cameras were configured to operate at 30 Hz and 1280x720  resolution, and depth images are obtained by combining their three image channels.
+- **Keyboard and Mouse Activity**: Keystrokes, mouse position, time between keystrokes, mouse wheel movements, etc., are monitored.
+- **Screen Capture**: The monitor screen is captured at a frequency of 1 Hz.
+- **Logging data**: Information about the activities learners engaged in and their phone usage timing was also captured.
 
 # Experiment Groups
 Three different groups were formed:
-- Group 1: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
-- Group 2: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
-- Group 3: The mobile phone was confiscated during the whole learning session.
+- **Group 1**: Mobile phone use and possession allowed. The device was placed on the learner's desk, visible to the learner, with sound and vibration activated.
+- **Group 2**: Mobile phone possession was allowed, but their use was prohibited. The device was also placed on the learner's desk, but with the screen facing down, and with sound and vibration activated.
+- **Group 3**: The mobile phone was confiscated during the whole learning session.
     
 # Task
 The learners were monitored while participating in a learning session about HTML in a MOOC. Before the session, they completed a pretest to assess their prior knowledge of HTML. During the session, learners watched instructional videos, read documents on language syntax and coding, completed assignments to evaluate their learning, and reviewed their mistakes.
