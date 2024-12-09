@@ -39,8 +39,8 @@ The learners were monitored while participating in a learning session about HTML
 # Code
 Some data from the IMPROVE database were preprocessed and included in the database along with the raw files:
 
-- EEG and heart rate data were filtered to eliminate minor fluctuations and smooth the signals. Interpolation was used to fill gaps in missing values shorter than 5 seconds. [[Example of code for Heart Rate](https://github.com/alvarobj/improve/blob/main/Code/Example_Heart_Rate_Signal.m)]
-
+- EEG and heart rate data were filtered to eliminate minor fluctuations and smooth the signals. Interpolation was used to fill gaps in missing values shorter than 5 seconds. [[Example of code for Heart Rate](https://github.com/alvarobj/improve/blob/main/Code/Example_Heart_Rate_Signal.m)] [[Example of code for Attention signal](https://github.com/alvarobj/improve/blob/main/Code/Filtered_Attention_Example.m)] [[Example of code for Accelerometer](https://github.com/alvarobj/improve/blob/main/Code/Filtered_Acc_Example.m)]
+ 
 
 # Download Data
 1) Download license agreement, send by email one signed and scanned copy to atvs@uam.es according to the instructions given.
